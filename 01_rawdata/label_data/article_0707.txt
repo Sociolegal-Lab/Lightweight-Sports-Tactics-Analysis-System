@@ -1,0 +1,2 @@
+T1	DEFENSE 8 9	盾
+T2	PERSON 17 20	簡偉倫

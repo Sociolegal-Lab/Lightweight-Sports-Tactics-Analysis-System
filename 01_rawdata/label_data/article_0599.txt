@@ -1,0 +1,2 @@
+T1	PERSON 30 35	Carla
+T2	DEFENSE 69 71	攔網

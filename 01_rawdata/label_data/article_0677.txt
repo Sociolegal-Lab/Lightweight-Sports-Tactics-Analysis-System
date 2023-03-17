@@ -1,0 +1,2 @@
+T1	PERSON 5 8	洪榮發
+T2	ATTACK 81 85	後排攻擊

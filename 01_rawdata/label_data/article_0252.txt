@@ -1,0 +1,13 @@
+T1	PERSON 49 52	布萊恩
+T2	PERSON 53 66	Bryan Bagunas
+T3	PERSON 82 89	Zsanett
+T4	PERSON 90 116	Zsanett Szerencsés-Miklai
+T5	PERSON 126 130	Sara
+T6	PERSON 131 151	Sara Vojnić-Purčar
+T7	PERSON 163 166	Bia
+T8	PERSON 167 183	Beatriz Carvalho
+T9	PERSON 186 190	Gabi
+T10	PERSON 191 207	Gabriela Fabiano
+T11	PERSON 220 239	Kardelen Ipek Vural
+T12	PERSON 245 257	Carla Santos
+T13	PERSON 267 282	Aleoscar Blanco

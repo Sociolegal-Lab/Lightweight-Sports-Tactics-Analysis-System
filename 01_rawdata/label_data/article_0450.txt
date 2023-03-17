@@ -1,0 +1,4 @@
+T1	PERSON 7 10	吳芳妤
+T2	PERSON 33 39	Valdez
+T3	PERSON 54 57	陳巧聆
+T4	PERSON 85 92	Beatriz

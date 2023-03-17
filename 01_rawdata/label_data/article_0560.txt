@@ -1,0 +1,2 @@
+T1	PERSON 34 36	雷諾
+T2	ATTACK 37 39	攻擊

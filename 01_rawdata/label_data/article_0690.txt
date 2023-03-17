@@ -1,0 +1,3 @@
+T1	PERSON 2 5	黃瀞萱
+T2	ATTACK 6 8	攻擊
+T3	DEFENSE 57 59	攔網

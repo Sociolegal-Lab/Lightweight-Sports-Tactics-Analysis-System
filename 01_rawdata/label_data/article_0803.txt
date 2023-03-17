@@ -1,0 +1,3 @@
+T1	PERSON 29 32	甘可慧
+T2	PERSON 33 40	Beatriz
+T3	ATTACK 51 53	攻勢

@@ -1,0 +1,4 @@
+T1	ATTACK 11 13	火力
+T2	PERSON 28 34	Milana
+T3	PERSON 49 55	Renele
+T4	PERSON 56 64	Berkeley

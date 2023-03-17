@@ -1,0 +1,2 @@
+T1	PERSON 23 26	邱雅慧
+T2	ATTACK 26 28	攻擊

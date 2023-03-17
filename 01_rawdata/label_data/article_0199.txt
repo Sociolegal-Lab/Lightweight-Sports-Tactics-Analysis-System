@@ -1,0 +1,3 @@
+T1	PERSON 12 25	Bryan Bagunas
+T2	PERSON 108 111	布萊恩
+T3	PERSON 153 156	布萊恩

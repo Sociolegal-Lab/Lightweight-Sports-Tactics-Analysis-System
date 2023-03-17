@@ -1,0 +1,4 @@
+T1	PERSON 0 3	劉鴻敏
+T2	PERSON 4 7	劉鴻杰
+T3	PERSON 26 29	劉鴻敏
+T4	PERSON 62 65	劉鴻杰

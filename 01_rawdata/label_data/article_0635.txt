@@ -1,0 +1,2 @@
+T1	PERSON 7 10	劉鴻敏
+T2	ATTACK 49 52	吊小球

@@ -1,0 +1,2 @@
+T1	PERSON 0 4	李尼希米
+T2	ATTACK 52 54	攻擊

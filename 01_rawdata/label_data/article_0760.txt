@@ -1,0 +1,2 @@
+T1	PERSON 29 32	劉鴻敏
+T2	ATTACK 36 38	殺球

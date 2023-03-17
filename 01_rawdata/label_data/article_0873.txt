@@ -1,0 +1,2 @@
+T1	PERSON 21 24	陳莉鈞
+T2	ATTACK 24 26	攻擊

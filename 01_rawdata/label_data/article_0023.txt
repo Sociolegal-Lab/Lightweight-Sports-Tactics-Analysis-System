@@ -1,0 +1,3 @@
+T1	PERSON 5 8	洪熙鈞
+T2	ATTACK 23 25	攻擊
+T3	DEFENSE 27 31	個人攔網

@@ -1,0 +1,2 @@
+T1	PERSON 54 56	攻擊
+T2	PERSON 88 91	陳怡如

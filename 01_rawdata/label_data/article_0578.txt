@@ -1,0 +1,3 @@
+T1	PERSON 5 8	Bia
+T2	ATTACK 18 20	重扣
+T3	PERSON 42 50	Aleoscar

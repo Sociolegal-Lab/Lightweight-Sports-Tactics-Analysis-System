@@ -1,0 +1,2 @@
+T1	PERSON 0 3	布萊恩
+T2	PERSON 49 52	布萊恩

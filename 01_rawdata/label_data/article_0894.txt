@@ -1,0 +1,2 @@
+T1	PERSON 6 19	Dirk Nowitzki
+T2	PERSON 21 24	盧清銓

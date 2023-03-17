@@ -1,0 +1,3 @@
+T1	PERSON 0 3	宋柏霆
+T2	ATTACK 14 16	攻擊
+T3	DEFENSE 20 24	攔網防守

@@ -1,0 +1,2 @@
+T1	PERSON 7 10	李姿瑩
+T2	DEFENSE 56 58	守備

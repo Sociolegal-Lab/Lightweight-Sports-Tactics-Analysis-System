@@ -1,0 +1,2 @@
+T1	PERSON 0 3	甘可慧
+T2	ATTACK 6 8	攻擊

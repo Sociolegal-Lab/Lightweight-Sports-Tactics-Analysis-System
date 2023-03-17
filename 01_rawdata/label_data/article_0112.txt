@@ -1,0 +1,2 @@
+T1	PERSON 7 10	曾茂聰
+T2	ATTACK 15 17	攻擊
